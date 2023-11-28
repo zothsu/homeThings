@@ -1,0 +1,14 @@
+===================
+V1.1 - 12-Dec-2021
+===================
+· Material shopping list corrected, 
+·· Timber Timber (C24) 2" x 6" is now with min length and units are pcs
+·· Batter and cladding also have now min lenth
+
+· 12. Distance laths
+·· Additional sections/pages added
+
+===================
+V1.0 - 01-Dec-2021
+===================
+Intial version
